@@ -1,8 +1,9 @@
 # Project Title Goes Here
 
 *This is a repo solely developed for the purpose of Final-Year-Project by CSE & IT students, GGI.*
-
 (*For use of educational purposes only. This repo will no longer be maintained after project submission.*)
+
+
 
 ## Contents
 
@@ -10,6 +11,8 @@
 - [Switch CSS Layouts](#switch-css-layouts)
 - [Change Features](#change-features)
 - [Sources and Credits](#sources-and-credits)
+
+
 
 
 ## Getting Started
@@ -215,18 +218,14 @@ When you open some **html** pages you will see those pages have background pictu
 ```
 
 
+
 ## Sources and Credits
 
 - [Node.JS - JavaScript Environment](https://nodejs.org/en/download/)
-- [Popper.js](https://popper.js.org/)
-- [Modernizr](https://modernizr.com/)
-- [NProgress.js](http://ricostacruz.com/nprogress/)
+- [Bootstrap 4](https://getbootstrap.com/)
 - [jQuery](https://jquery.com/)
 - [jQuery UI Range Slider](https://jqueryui.com/slider/)
 - [Font Awesome 5](https://fontawesome.com/)
 - [Ion Icons 4](https://ionicons.com/)
 - [Owl Carousel 2](https://owlcarousel2.github.io/OwlCarousel2/)
 - [Animate.css](https://daneden.github.io/animate.css/)
-- [jQuery ScrollUp](https://github.com/markgoodyear/scrollup)
-- [jQuery Slim Scroll](https://github.com/rochal/jQuery-slimScroll)
-- [jQuery Elevate Zoom](http://elevateweb.co.uk/image-zoom)
