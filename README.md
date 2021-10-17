@@ -218,9 +218,6 @@ When you open some **html** pages you will see those pages have background pictu
 ## Sources and Credits
 
 - [Node.JS - JavaScript Environment](https://nodejs.org/en/download/)
-- [Npm - Node Package Manager](https://docs.npmjs.com/getting-started/what-is-npm)
-- [Webpack - JavaScript Module Bundler](https://webpack.js.org/concepts/)
-- [Bootstrap 4](https://getbootstrap.com/)
 - [Popper.js](https://popper.js.org/)
 - [Modernizr](https://modernizr.com/)
 - [NProgress.js](http://ricostacruz.com/nprogress/)
