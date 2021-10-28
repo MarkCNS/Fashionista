@@ -1,4 +1,4 @@
-# Project Title Goes Here
+# Fashionista
 
 *This repo is solely developed for the purpose of Final-Year-Project by CSE & IT students, GGI.*
 
