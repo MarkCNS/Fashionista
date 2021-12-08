@@ -342,12 +342,10 @@ $(function () {
     /**
      * Shows Newsletter Modal After 5sec = 5000milliseconds
      */
-    const showNewsletterModal = function () {
-            setTimeout(function () {
-                // Manually opens a modal
-                $('#newsletter-modal').modal('show');
-            }, 5000);
-    };
+    $(function () {
+        showNewsletterModal();
+         // showNewsletterModal(); Comment this function
+    });
     /**
      * Initialize Main Slider
      */
