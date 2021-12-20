@@ -18,12 +18,8 @@
 
 ## Getting Started
 
-(Write any beautiful description about the whole project.....blah....blah....blah....blah....blah....blah....blah....blah
-....blah....blah....blah....blah....blah....blah....blah....blah....blah....blah....blah....blah....blah....blah....blah....blah
-....blah....blah....blah....blah....blah....blah....blah....blah)
-
-*Too lazy for this* 😂
-
+Fashionista is a new, clean and polish multipurpose - commerce website built with modern workflow. When developing this website, we highly focused on some goals i.e., responsiveness, well tested on all compatible browsers designed to be reusable and could be easily customizable into any stores like clothing, toys, mobiles & tablets, electronics, books, furniture etc.
+Fashionista is Front-end for an e-commerce clothes selling website.
 
 
 ## Switch CSS Layouts
